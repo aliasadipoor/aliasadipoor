@@ -17,7 +17,6 @@ In addition to technical skills, I also teach communication skills and important
 + SQL and Database Management
   
 
-![55](https://github.com/aliasadipoor/aliasadipoor/assets/111628407/3283dfdc-6b21-47fe-a577-5cb60601d31e)
 
 ## Let's Connect!
 To talk and collaborate with me, you can message @Ali_asadipoor on Telegram or aliasadipoor33@gmail.com on Email.

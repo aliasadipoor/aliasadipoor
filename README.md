@@ -4,7 +4,7 @@ I'm Ali asdipour, a front-end programmer with great interest and motivation sinc
 ## About ME
 I use my technical skills and front-end experience and am always looking for new ways to improve the user experience (UX). I believe that a front-end developer should use his skills to understand the needs of users in the best possible way.
 In addition to technical skills, I also teach communication skills and important tasks. I believe that a Frand programmer should communicate well with users and other team members
-## About ME
+## Skills 
 + HTML
 + css
 + JavaScript
@@ -16,5 +16,8 @@ In addition to technical skills, I also teach communication skills and important
 + Wordpress
 + SQL and Database Management
   
-  
+
 ![55](https://github.com/aliasadipoor/aliasadipoor/assets/111628407/3283dfdc-6b21-47fe-a577-5cb60601d31e)
+
+## Let's Connect!
+To talk and collaborate with me, you can message @Ali_asadipoor on Telegram or aliasadipoor33@gmail.com on Email.
